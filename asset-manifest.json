@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e3a80c79.css",
+    "main.js": "/portfolio/static/js/main.381a09ef.js",
+    "static/js/787.cc4e593a.chunk.js": "/portfolio/static/js/787.cc4e593a.chunk.js",
+    "static/media/zenwellness.png": "/portfolio/static/media/zenwellness.4f7dc95ce376caab0839.png",
+    "static/media/kyros.png": "/portfolio/static/media/kyros.d5c1bdb4e4dd8a2652ec.png",
+    "static/media/semoscloud.png": "/portfolio/static/media/semoscloud.a09e0153bf26de1fcc9b.png",
+    "static/media/socialroots.png": "/portfolio/static/media/socialroots.71c73972638fedf32404.png",
+    "static/media/kristina.jpg": "/portfolio/static/media/kristina.914f394b40a0c5e22b07.jpg",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/media/pdf.svg": "/portfolio/static/media/pdf.e6557dc13fdf6b29dc48f26f74473999.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/github.svg": "/portfolio/static/media/github.e819d213b08dc3fd72118872ffa7391e.svg",
+    "static/media/arrowTopRight.svg": "/portfolio/static/media/arrowTopRight.0e102d8139b64903a2b4f38be5bb020b.svg",
+    "static/media/arrowRight.svg": "/portfolio/static/media/arrowRight.5bfa93bc999bada580fac2416c8f33ef.svg",
+    "static/media/smile.svg": "/portfolio/static/media/smile.5d3cf79053f0b825b9618e9466be6127.svg",
+    "static/media/mail.svg": "/portfolio/static/media/mail.663c3a0d5ac70b67de3e65a2e47cb0b0.svg",
+    "static/media/arrowLeft.svg": "/portfolio/static/media/arrowLeft.2add70d67fc1a4f9c756f7c1b09256fd.svg",
+    "main.e3a80c79.css.map": "/portfolio/static/css/main.e3a80c79.css.map",
+    "main.381a09ef.js.map": "/portfolio/static/js/main.381a09ef.js.map",
+    "787.cc4e593a.chunk.js.map": "/portfolio/static/js/787.cc4e593a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3a80c79.css",
+    "static/js/main.381a09ef.js"
+  ]
+}
